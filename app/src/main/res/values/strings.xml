@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">CalcMate</string>
+    <string name="_0">0</string>
+    <string name="star">*</string>
+    <string name="_2">2</string>
+    <string name="_3">3</string>
+    <string name="dash">-</string>
+    <string name="_1">1</string>
+    <string name="c">C</string>
+</resources>
