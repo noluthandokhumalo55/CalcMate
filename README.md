@@ -14,7 +14,7 @@ Requirements:
 - API Level 34 (Android 14)
 - Kotlin (latest version)
   
-  Installation:
+Installation:
 
 - Clone the Repository
 
